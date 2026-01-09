@@ -12,8 +12,8 @@ This project implements an 8 - bit Arithmetic logic unit (ALU) using Verilog HDL
 
 ---
 ## Files
-- `eight_bit_arithmetic_logic_unit.v` - 8 bit ALU design
-- `alu_tb` - Testbench for Verification
+- [Design](eight_bit_arithmetic_logic_unit.v)
+- [Testbench](alu_tb.v)
 ---
 ## Tools 
 - Vivado
